@@ -1,3 +1,8 @@
+"""
+Pre-Meeting Briefing Agent
+Maintained by Praveen (@SauceK-DoeS) & Kenneth Ansel
+"""
+
 import re
 from datetime import time as dtime
 

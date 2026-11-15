@@ -64,4 +64,8 @@ python -m streamlit run app.py
 - The model is instructed to cite every claim and never invent facts.
 - Unsupported or unclear items go under "Unverified / Unclear".
 - Every briefing ends with a clickable source list so the user can verify it.
-- Quality depends on what Tavily finds. Very small companies or people with common names may retu
+- Quality depends on what Tavily finds. Very small companies or people with common names may return fewer or less relevant results.
+
+## Authors & Contributors
+- Kenneth Ansel
+- Praveen ([@SauceK-DoeS](https://github.com/SauceK-DoeS))
